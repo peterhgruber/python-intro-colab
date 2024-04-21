@@ -1,7 +1,25 @@
+# Ignore Mac system files
+.DS_Store
+
+## Config and credentials
+credentials
+credentials*
+
+## Solutions
+*_solution*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+**/.ipynb_checkpoints
+*-checkpoint.ipynb
+*-checkpoint.html
+
+## Internal verions
+*_internal* 
+*_internal/**
+.webloc
 
 # C extensions
 *.so
