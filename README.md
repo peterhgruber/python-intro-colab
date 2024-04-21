@@ -15,6 +15,7 @@ Simply click on *Open in Colab*
 * **01 – Getting started** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/01Python_Intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **02 – Functions** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/02Python_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **03 – Data types and structures** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/03Python_Data.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* **Appendix: working with files in Colab** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/xxPython_Colab_dataipynb.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 ## Philosophy
 * Quick intro to Python
