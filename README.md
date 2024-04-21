@@ -10,8 +10,11 @@ Python Intro for Colab is a set of Jupyter Notebooks that can directly be execut
 * Work through the notebooks in numerical order
 
 ## Chapters
-* Simply click on *Open in Colab* below
-* **01 – Getting started**  <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/01Python_Intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Simply click on *Open in Colab*
+
+* **01 – Getting started** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/01Python_Intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* **02 – Functions** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/02Python_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* **03 – Data types and structures** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/03Python_Data.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Philosophy
 * Quick intro to Python
@@ -20,7 +23,7 @@ Python Intro for Colab is a set of Jupyter Notebooks that can directly be execut
 
 ## License
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 (c) Peter H. Gruber. This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
