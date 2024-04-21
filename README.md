@@ -11,9 +11,7 @@ Python Intro for Colab is a set of Jupyter Notebooks that can directly be execut
 
 ## Chapters
 * Simply click on *Open in Colab* below
-* **01 – Getting started**  <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/algosmartcolab/blob/main/01algosmart.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>| 
+* **01 – Getting started**  <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/01Python_Intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Philosophy
 * Quick intro to Python
