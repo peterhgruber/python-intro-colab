@@ -16,6 +16,7 @@ Simply click on *Open in Colab*
 * **02 – Functions** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/02Python_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **03 – Data types and structures** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/03Python_Data.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **04 – Modules and Packages** &nbsp;<a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/04Python_Modules.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* **05 – Dataframes** &nbsp;<a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/05Python_Dataframes.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * **Appendix: working with files in Colab** &nbsp; <a target="_blank" href="https://colab.research.google.com/github/peterhgruber/python-intro-colab/blob/main/99Python_Colab_data.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 ## Philosophy
